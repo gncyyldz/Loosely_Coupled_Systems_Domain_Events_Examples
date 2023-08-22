@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loosely_Coupled_Systems_Domain_Events_Examples_API", "Loosely_Coupled_Systems_Domain_Events_Examples_API\Loosely_Coupled_Systems_Domain_Events_Examples_API.csproj", "{9FD84C27-BA9A-41F7-9738-E1553A826AE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FD84C27-BA9A-41F7-9738-E1553A826AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD84C27-BA9A-41F7-9738-E1553A826AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD84C27-BA9A-41F7-9738-E1553A826AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD84C27-BA9A-41F7-9738-E1553A826AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE77AB1C-BD83-4859-9C1D-03192C90DD69}
+	EndGlobalSection
+EndGlobal
